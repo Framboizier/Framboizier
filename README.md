@@ -20,7 +20,7 @@
 
 <p><h3 align="left">Stats :</h3></p>
 
-<p><a id="Stats" target="BLANK" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=framboizier&show_icons=true&locale=en&layout=compact" alt="framboizier" /></a></p>
+<p><a id="Stats" target="BLANK" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=framboizier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="framboizier"  /></a></p>
 
 
 

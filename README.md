@@ -7,6 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <a id="Hy_Framboizier#0799" target="BLANK" ><img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" alt="frambozier" height="45" width="45" /></a>
 <h3 align="left">Hy_Framboizier#0799</h3>
+<br/>
+<a href="https://framboizier.github.io/website/website.html" target="BLANK"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2087/2087818.png" alt="framboizier" height="45" width="45" /></a>
 
 </p>
 <br/>

@@ -8,7 +8,7 @@
 <a id="Hy_Framboizier#0799" target="blank_" ><img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" alt="frambozier" height="45" width="45" /></a>
 <h3 align="left">Hy_Framboizier#0799</h3>
 <br/>
-<a href="https://framboizier.github.io/website/website.html" target="BLANK"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mano_cursor.svg/1200px-Mano_cursor.svg.png" alt="framboizier" height="50" width="45" /><h3 align="left">My Website</h3></a>
+<a href="https://framboizier.github.io/website/home.html" target="BLANK"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mano_cursor.svg/1200px-Mano_cursor.svg.png" alt="framboizier" height="50" width="45" /><h3 align="left">My Website</h3></a>
 
 </p>
 <br/>

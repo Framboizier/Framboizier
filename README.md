@@ -2,7 +2,6 @@
 
 - ``` I'm french developer ``` 🔓
 - ``` developer since 3 years ``` 💻
-src="https://cdn.discordapp.com/attachments/709864195360817272/1025701977969139753/server-icon2_.png" alt="frambozier" height="22" width="22" /></a>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <a id="Hy_Framboizier#0799" target="blank_" ><img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" alt="frambozier" height="45" width="45" /></a>

@@ -1,8 +1,8 @@
 <h1 align="center"> Hi I'm Framboizier <a id="Hy_Framboizier#0799" target="BLANK" ><img align="center" src="https://cdn.discordapp.com/attachments/709864195360817272/1025700595165843466/zenutsu_round.png" alt="frambozier" height="55" width="55" /></a> </h1> 
 
 - ``` I'm french developer ``` 🔓
-- ``` developer since 2 years ``` 💻
-- ``` Former founder of Navazia ``` <a id="Navazia" target="BLANK" ><img align="center" src="https://cdn.discordapp.com/attachments/709864195360817272/1025701977969139753/server-icon2_.png" alt="frambozier" height="22" width="22" /></a>
+- ``` developer since 3 years ``` 💻
+src="https://cdn.discordapp.com/attachments/709864195360817272/1025701977969139753/server-icon2_.png" alt="frambozier" height="22" width="22" /></a>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <a id="Hy_Framboizier#0799" target="blank_" ><img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" alt="frambozier" height="45" width="45" /></a>
